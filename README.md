@@ -62,6 +62,18 @@ This project provides a structured path to deeply understand Kafka through pract
 - Error handling patterns
 - Performance considerations
 
+## AI Usage
+
+This project was developed with assistance from Claude.ai for:
+
+1. **Exercise Design** - Creating clear titles, descriptions, and learning objectives for exercises across all difficulty levels
+2. **Technical Guidance** - Learning how to integrate Clojure with Kafka in simple, idiomatic ways, including:
+   - Setting up producers and consumers
+   - Running background processes without blocking the REPL
+   - Handling serialization and deserialization
+
+The core learning, problem-solving, and implementation remain human-driven. AI served as a technical advisor and documentation assistant.
+
 ---
 
 **Note:** This is a learning project. Exercises are designed for understanding, not production use.
